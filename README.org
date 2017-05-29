@@ -1,0 +1,41 @@
+#+TITLE: Social Sciences and Cultural Studies for Hackers
+
+* Introduction 
+
+One of the greatest problems facing the tech industry is a poor understanding of social sciences and the humanaties. As technologists we have the capacity to solve many problems with powerful tools which can change the world for the better. But as a field we are almost always blind to the approches and knowlege gained from the social sciences and the humanities. These areas of knoweldge are vital to help us understand the consiquences of our work. 
+
+Below are tables of books and resources for Hackers who want to spend sometime studying culture, so they are better prepared to not do evil. 
+
+* Sociology 
+
+|                             |              | <80>                                                                             |
+| Title                       | Author       | Description                                                                      |
+| The Sources of Social Power | Michael Mann | A multi-volume work which, "Distinguishing four sources of power in human societies – ideological, economic, military and political – The Sources of Social Power traces their interrelations throughout human history." |
+|                             |              |                                                                                  |
+
+* Ethics 
+
+|                               |                | <80>                                                                             |
+| Title                         | Author         | Description                                                                      |
+| "Do Artefacts have Politics?" | Langdon Winner | Academic Paper fron 1980 on Computer Ethics                                      |
+
+* Cultural Theory 
+
+|                                                       |                 | <80>                                                                             |
+| Title                                                 | Author          | Description                                                                      |
+|-------------------------------------------------------+-----------------+----------------------------------------------------------------------------------|
+| The Work of Art in the Age of Mechanical Reproduction | Walter Benjamin | Seminal essay by Benjamin which argues that the value of a work of art is inverse to its uniqueness. i.e. objects which are created through automation (photographs, films, etc) are worth less both in terms of capital value and their cultural value. |
+|                                                       |                 |                                                                                  |
+
+* Memoir 
+|                                |                | <80>                                                                             |
+| Title                          | Author         | Description                                                                      |
+|--------------------------------+----------------+----------------------------------------------------------------------------------|
+| The Gentrification of the Mind | Sarah Schulman | AIDS memoir describing the gentrification of New York's property and arts culture. Relevent to technologists as a warning about the damaging effects of discrimination and inequality. |
+|                                |                |                                                                                  |
+
+* Contributing 
+
+This is a small personal project aimed to curate a reading list for my own education. 
+
+However I take contributions seriously and welcome them. To that end a code of conduct will be included in a forthcoming contribution guide. If anyone wishes to contribute but feels unable due to my decision to use GitHub as the primary distribution tool please contact me for assistance. 
